@@ -1,0 +1,10 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Dec 28 14:49:17 MYT 2023
+https\://repo.maven.apache.org/maven2/.lastUpdated=1646728152393
+https\://raw.githubusercontent.com/acceval/mvn-repo/master/dev/.error=
+https\://raw.githubusercontent.com/acceval/mvn-repo/master/dev/.lastUpdated=1703746157554
+https\://jitpack.io/.error=
+https\://repo.maven.apache.org/maven2/.error=
+https\://jitpack.io/.lastUpdated=1646728151704
+@default-Thundercloud-https\://petronasvsts.pkgs.visualstudio.com/Thundercloud/_packaging/Thundercloud/maven/v1/.lastUpdated=1646728151257
+https\://petronasvsts.pkgs.visualstudio.com/Thundercloud/_packaging/Thundercloud/maven/v1/.error=Could not transfer artifact com.github.jhonnymertz\:java-wkhtmltopdf-wrapper\:jar\:javadoc\:1.1.4-RELEASE from/to Thundercloud (https\://petronasvsts.pkgs.visualstudio.com/Thundercloud/_packaging/Thundercloud/maven/v1)\: Not authorized , ReasonPhrase\:Unauthorized.
