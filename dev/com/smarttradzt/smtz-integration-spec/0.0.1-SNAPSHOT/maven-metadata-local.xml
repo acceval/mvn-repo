@@ -2,22 +2,22 @@
 <metadata modelVersion="1.1.0">
   <groupId>com.smarttradzt</groupId>
   <artifactId>smtz-integration-spec</artifactId>
-  <version>0.0.1-IOCL-SNAPSHOT</version>
+  <version>0.0.1-SNAPSHOT</version>
   <versioning>
     <snapshot>
       <localCopy>true</localCopy>
     </snapshot>
-    <lastUpdated>20240102033121</lastUpdated>
+    <lastUpdated>20240102032029</lastUpdated>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>0.0.1-IOCL-SNAPSHOT</value>
-        <updated>20240102033121</updated>
+        <value>0.0.1-SNAPSHOT</value>
+        <updated>20240102032029</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>0.0.1-IOCL-SNAPSHOT</value>
-        <updated>20240102033121</updated>
+        <value>0.0.1-SNAPSHOT</value>
+        <updated>20240102032029</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
